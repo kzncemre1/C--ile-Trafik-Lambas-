@@ -1,0 +1,17 @@
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\bin\Debug\net6.0-windows\TrafikLambasıUygulaması.exe
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\bin\Debug\net6.0-windows\TrafikLambasıUygulaması.deps.json
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\bin\Debug\net6.0-windows\TrafikLambasıUygulaması.runtimeconfig.json
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\bin\Debug\net6.0-windows\TrafikLambasıUygulaması.dll
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\bin\Debug\net6.0-windows\TrafikLambasıUygulaması.pdb
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.csproj.AssemblyReference.cache
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.Form1.resources
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.csproj.GenerateResource.cache
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.AssemblyInfoInputs.cache
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.AssemblyInfo.cs
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.dll
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\refint\TrafikLambasıUygulaması.dll
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.pdb
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\TrafikLambasıUygulaması.genruntimeconfig.cache
+C:\Users\kazan\source\repos\TrafikLambasıUygulaması\TrafikLambasıUygulaması\obj\Debug\net6.0-windows\ref\TrafikLambasıUygulaması.dll
